@@ -15,7 +15,7 @@ public class Consume {
 
         DefaultMQPushConsumer consumer = new DefaultMQPushConsumer("quickstart_consumer");
         // 设置链接的集群地址
-        consumer.setNamesrvAddr("106.12.112.217:9876");
+        consumer.setNamesrvAddr("192.168.1.103:9876;192.168.1.105:9876");
         //从队列的什么地方开始消费(第一次启动)
         // 非第一次启动按照上次的位置继续消费
         consumer.setConsumeFromWhere(ConsumeFromWhere.CONSUME_FROM_LAST_OFFSET);

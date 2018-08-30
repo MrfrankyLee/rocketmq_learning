@@ -9,7 +9,7 @@ public class Productor {
     public static void main(String[] args) throws Exception {
         // 创建producer对象
         DefaultMQProducer producer = new DefaultMQProducer("quickStartproducer");
-        producer.setNamesrvAddr("106.12.112.217:9876");
+        producer.setNamesrvAddr("192.168.1.103:9876;192.168.1.105:9876");
 
         producer.start();
         for (int i = 1; i < 21; i++) {
