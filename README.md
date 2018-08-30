@@ -1,5 +1,5 @@
-###rocketmq_learning
-####RocketMQ消息中间件学习总结
+#rocketmq_learning<br>
+##RocketMQ消息中间件学习总结<br>
 本次使用的RocketMQ消息中间件的版本是4.1.0-incubating版本其他版本与该版本类似<br>
 首先是环境的部署与搭建(双机Master服务器环境)<br>
 环境：(以下是本人安装环境与步骤,可参考)<br>
@@ -9,7 +9,8 @@ RocketMQ 4.1.0<br>
 java 1.8<br>
 maven 3.3.9 <br>
 
-#####单机环境搭建请看最后面
+###单机环境搭建请看最后面<br>
+
 1.[下载rocketmq](http://rocketmq.apache.org/release_notes/release-notes-4.1.0-incubating/)
 推荐下载Binary（不需进行打包）<br>
 
