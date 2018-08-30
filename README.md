@@ -202,8 +202,8 @@ ocketmq.config.namesrvAddr=namesrv服务地址：9876<br>
 其余过程不变<br>
 
 
-####如果以上任何步骤有问题可以发邮件franky8805@gmail.com或者new issue提问本人
-#共同学习 共同进步     [peace&love](http://#)
+####如果以上任何步骤有问题可以发邮件franky8805@gmail.com或者new issue提问本人<br>
+共同学习 共同进步     [peace&love](http://#)
 
   
 
