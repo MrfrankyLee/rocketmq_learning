@@ -42,7 +42,7 @@ unzip rocketmq-all-4.1.0-incubating-bin-release.zip
 
 重命名解压文件(方便操作,根据个人喜好,可以改名也可不改):
 ```bash
-mv rocketmq-all-4.1.0-incubating-bin-release rocketmq<br>
+mv rocketmq-all-4.1.0-incubating-bin-release rocketmq
 ```
 
 4.修改两台主机hosts信息<br>
