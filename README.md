@@ -23,7 +23,7 @@ scp /Users/***/Downloads/rocketmq-all-4.1.0-incubating-bin-release.zip  root@Lin
 
 Win版:
 ```bash
-pscp windows本地路径 root@Linux服务器IP地址:/usr/local<br>
+pscp windows本地路径 root@Linux服务器IP地址:/usr/local
 ```
 注意：windows 需要下载pscp.exe文件(具体下载地址可google或百度)，并将其存放入C:\Windows\System32文件夹下，然后可在windows命令框中直接输入上面命令。<br>
 
